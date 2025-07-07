@@ -1,0 +1,116 @@
+{
+	"version": "1.0.0",
+	"renderType": "multisparrow",
+	"offsets": [
+		0,
+		0
+	],
+	"danceEvery": 1,
+	"scale": 1,
+	"name": "Cassette Girl",
+	"flipX": false,
+	"cameraOffsets": [
+		0,
+		50
+	],
+	"flipY": false,
+	"startingAnimation": "idle",
+	"singTime": 4,
+	"isPixel": false,
+	"assetPath": "characters/cassettegirl-playable",
+	"healthIcon": {
+		"offsets": [
+			0,
+			0
+		],
+		"isPixel": false,
+		"scale": 1,
+		"flipX": false,
+		"id": "cgplayable"
+	},
+	"generatedBy": "Nova Character Editor v0.1.3",
+	"animations": [
+		{
+			"flipY": false,
+			"offsets": [
+				0,
+				-30
+			],
+			"frameRate": 24,
+			"prefix": "cassettegirl idle",
+			"flipX": false,
+			"looped": false,
+			"name": "idle"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-2,
+				-30
+			],
+			"frameRate": 24,
+			"prefix": "cassettegirl left",
+			"flipX": false,
+			"name": "singLEFT"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-2,
+				-30
+			],
+			"frameRate": 24,
+			"prefix": "cassettegirl right",
+			"flipX": false,
+			"name": "singRIGHT"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				2,
+				-30
+			],
+			"frameRate": 24,
+			"prefix": "cassettegirl down",
+			"flipX": false,
+			"name": "singDOWN"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				0,
+				-29
+			],
+			"frameRate": 24,
+			"prefix": "cassettegirl up",
+			"flipX": false,
+			"name": "singUP"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
+			"frameRate": 24,
+			"assetPath": "characters/cassettegirl-chill",
+			"prefix": "cassettegirl-chill",
+			"flipX": false,
+			"looped": false,
+			"name": "chill"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
+			"frameRate": 24,
+			"assetPath": "characters/cassettegirl-st",
+			"prefix": "cassettegirl cut",
+			"flipX": false,
+			"looped": false,
+			"name": "cut"
+		}
+	]
+}
