@@ -1,7 +1,8 @@
 {
   "version": "2.2.4",
-  "songName": "Bopeebo (Cassette Mix)",
+  "songName": "Fresh (Cassette Mix)",
   "artist": "Fantactic",
+  "charter": "Fantactic",
   "divisions": 96,
   "looped": false,
   "offsets": {
@@ -33,13 +34,13 @@
     "stage": "mainStageErect",
     "noteStyle": "funkin",
     "ratings": {
-      "easy": 1,
-      "hard": 4,
-      "normal": 2
+      "easy": 4,
+      "hard": 10,
+      "normal": 6
     },
     "album": "volume3",
     "previewStart": 0,
-    "previewEnd": 0
+    "previewEnd": 15000
   },
   "generatedBy": "Friday Night Funkin' - v0.6.4",
   "timeFormat": "ms",
@@ -47,7 +48,7 @@
     {
       "t": 0,
       "b": 0,
-      "bpm": 100,
+      "bpm": 120,
       "n": 4,
       "d": 4,
       "bt": [
