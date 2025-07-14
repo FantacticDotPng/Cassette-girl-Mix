@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TextureAtlas imagePath="cassettegirlmodpixel.png" width="168" height="37">
+<TextureAtlas imagePath="blankspeakerpixel.png" width="168" height="37">
   <SubTexture name="idle0001" x="0" y="0"  width="42" height="37" frameX="-4" frameY="-14" frameWidth="50" frameHeight="50"/>
 
   <SubTexture name="confirm0001" x="0" y="0"  width="42" height="37" frameX="-4" frameY="-14" frameWidth="50" frameHeight="50"/>

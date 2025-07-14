@@ -70,8 +70,8 @@
   "charSelect": {
     "position": 1,
     "gf": {
-      "assetPath": "charSelect/molochChill",
-      "animInfoPath": "charSelect/molochAnimInfo",
+      "assetPath": "charSelect/blankspeakerChill",
+      "animInfoPath": "charSelect/blankspeakerAnimInfo",
       "visualizer": false
     }
   },
