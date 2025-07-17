@@ -1,9 +1,9 @@
 {
   "version": "1.0.0",
-  "bgAsset": "freeplay/freeplayBGdadSpooky",
-  "selectorAsset": "freeplay/freeplaySelector/freeplaySelector_spooky",
-  "numbersAsset": "digital_numbers_spooky",
-  "capsuleAsset": "freeplay/freeplayCapsule/capsule/freeplayCapsule_spooky",
-  "capsuleTextColors": ["#00CC0D", "#00CC0D"],
+  "bgAsset": "freeplay/freeplayBGdadCassette",
+  "selectorAsset": "freeplay/freeplaySelector/freeplaySelector_cassette",
+  "numbersAsset": "digital_numbers_cassette",
+  "capsuleAsset": "freeplay/freeplayCapsule/capsule/freeplayCapsule_cassette",
+  "capsuleTextColors": ["#573FFF", "#573FFF"],
   "startDelay": 1.16
 }

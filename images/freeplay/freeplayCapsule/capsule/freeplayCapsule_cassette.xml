@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas imagePath="freeplayCapsule_cassette.png">
-	<!-- Created with Adobe Animate version 24.0.3.19 -->
+	<!-- Created with Adobe Animate version 24.0.7.61 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="mp3 capsule w backing0000" x="2" y="2" width="585" height="131" frameX="-14" frameY="-1" frameWidth="612" frameHeight="132"/>
-	<SubTexture name="mp3 capsule w backing0001" x="589" y="2" width="585" height="131" frameX="-14" frameY="-1" frameWidth="612" frameHeight="132"/>
-	<SubTexture name="mp3 capsule w backing0002" x="1176" y="2" width="581" height="132" frameX="-18" frameY="0" frameWidth="612" frameHeight="132"/>
-	<SubTexture name="mp3 capsule w backing0003" x="2" y="136" width="581" height="132" frameX="-18" frameY="0" frameWidth="612" frameHeight="132"/>
-	<SubTexture name="mp3 capsule w backing0004" x="585" y="136" width="612" height="125" frameX="0" frameY="-7" frameWidth="612" frameHeight="132"/>
-	<SubTexture name="mp3 capsule w backing0005" x="1199" y="136" width="612" height="125" frameX="0" frameY="-7" frameWidth="612" frameHeight="132"/>
-	<SubTexture name="mp3 capsule w backing0006" x="2" y="270" width="590" height="128" frameX="-11" frameY="-4" frameWidth="612" frameHeight="132"/>
-	<SubTexture name="mp3 capsule w backing0007" x="594" y="270" width="590" height="128" frameX="-11" frameY="-4" frameWidth="612" frameHeight="132"/>
-	<SubTexture name="mp3 capsule w backing NOT SELECTED0000" x="1186" y="270" width="585" height="131" frameX="-9" frameY="-1" frameWidth="602" frameHeight="132"/>
-	<SubTexture name="mp3 capsule w backing NOT SELECTED0001" x="2" y="403" width="585" height="131" frameX="-9" frameY="-1" frameWidth="602" frameHeight="132"/>
-	<SubTexture name="mp3 capsule w backing NOT SELECTED0002" x="589" y="403" width="581" height="132" frameX="-13" frameY="0" frameWidth="602" frameHeight="132"/>
-	<SubTexture name="mp3 capsule w backing NOT SELECTED0003" x="1172" y="403" width="581" height="132" frameX="-13" frameY="0" frameWidth="602" frameHeight="132"/>
-	<SubTexture name="mp3 capsule w backing NOT SELECTED0004" x="2" y="537" width="602" height="124" frameX="0" frameY="-8" frameWidth="602" frameHeight="132"/>
-	<SubTexture name="mp3 capsule w backing NOT SELECTED0005" x="606" y="537" width="602" height="124" frameX="0" frameY="-8" frameWidth="602" frameHeight="132"/>
-	<SubTexture name="mp3 capsule w backing NOT SELECTED0006" x="1210" y="537" width="590" height="128" frameX="-6" frameY="-4" frameWidth="602" frameHeight="132"/>
-	<SubTexture name="mp3 capsule w backing NOT SELECTED0007" x="2" y="667" width="590" height="128" frameX="-6" frameY="-4" frameWidth="602" frameHeight="132"/>
+	<SubTexture name="mp3 capsule w backing NOT SELECTED instance 10000" x="0" y="0" width="586" height="132" frameX="-9" frameY="-1" frameWidth="604" frameHeight="133"/>
+	<SubTexture name="mp3 capsule w backing NOT SELECTED instance 10001" x="586" y="0" width="586" height="132" frameX="-9" frameY="-1" frameWidth="604" frameHeight="133"/>
+	<SubTexture name="mp3 capsule w backing NOT SELECTED instance 10002" x="1172" y="0" width="582" height="133" frameX="-13" frameY="0" frameWidth="604" frameHeight="133"/>
+	<SubTexture name="mp3 capsule w backing NOT SELECTED instance 10003" x="0" y="133" width="582" height="133" frameX="-13" frameY="0" frameWidth="604" frameHeight="133"/>
+	<SubTexture name="mp3 capsule w backing NOT SELECTED instance 10004" x="582" y="133" width="604" height="125" frameX="0" frameY="-8" frameWidth="604" frameHeight="133"/>
+	<SubTexture name="mp3 capsule w backing NOT SELECTED instance 10005" x="1186" y="133" width="604" height="125" frameX="0" frameY="-8" frameWidth="604" frameHeight="133"/>
+	<SubTexture name="mp3 capsule w backing NOT SELECTED instance 10006" x="0" y="266" width="592" height="129" frameX="-6" frameY="-4" frameWidth="604" frameHeight="133"/>
+	<SubTexture name="mp3 capsule w backing NOT SELECTED instance 10007" x="592" y="266" width="592" height="129" frameX="-6" frameY="-4" frameWidth="604" frameHeight="133"/>
+	<SubTexture name="mp3 capsule w backing instance 10000" x="1184" y="266" width="586" height="132" frameX="-14" frameY="-1" frameWidth="614" frameHeight="133"/>
+	<SubTexture name="mp3 capsule w backing instance 10001" x="0" y="398" width="586" height="132" frameX="-14" frameY="-1" frameWidth="614" frameHeight="133"/>
+	<SubTexture name="mp3 capsule w backing instance 10002" x="586" y="398" width="582" height="133" frameX="-18" frameY="0" frameWidth="614" frameHeight="133"/>
+	<SubTexture name="mp3 capsule w backing instance 10003" x="1168" y="398" width="582" height="133" frameX="-18" frameY="0" frameWidth="614" frameHeight="133"/>
+	<SubTexture name="mp3 capsule w backing instance 10004" x="0" y="531" width="614" height="126" frameX="0" frameY="-7" frameWidth="614" frameHeight="133"/>
+	<SubTexture name="mp3 capsule w backing instance 10005" x="614" y="531" width="614" height="126" frameX="0" frameY="-7" frameWidth="614" frameHeight="133"/>
+	<SubTexture name="mp3 capsule w backing instance 10006" x="1228" y="531" width="592" height="129" frameX="-11" frameY="-4" frameWidth="614" frameHeight="133"/>
+	<SubTexture name="mp3 capsule w backing instance 10007" x="0" y="660" width="592" height="129" frameX="-11" frameY="-4" frameWidth="614" frameHeight="133"/>
 </TextureAtlas>

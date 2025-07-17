@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="digital_numbers_cassette.png">
+	<!-- Created with Adobe Animate version 24.0.7.61 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="EIGHT DIGITAL instance 10000" x="0" y="0" width="140" height="199"/>
+	<SubTexture name="EIGHT DIGITAL instance 10001" x="0" y="0" width="140" height="199"/>
+	<SubTexture name="EIGHT DIGITAL instance 10002" x="140" y="0" width="116" height="175" frameX="-12" frameY="-12" frameWidth="140" frameHeight="199"/>
+	<SubTexture name="EIGHT DIGITAL instance 10003" x="140" y="0" width="116" height="175" frameX="-12" frameY="-12" frameWidth="140" frameHeight="199"/>
+	<SubTexture name="EIGHT DIGITAL instance 10004" x="256" y="0" width="110" height="169" frameX="-15" frameY="-15" frameWidth="140" frameHeight="199"/>
+	<SubTexture name="EIGHT DIGITAL instance 10005" x="256" y="0" width="110" height="169" frameX="-15" frameY="-15" frameWidth="140" frameHeight="199"/>
+	<SubTexture name="EIGHT DIGITAL instance 10006" x="256" y="0" width="110" height="169" frameX="-15" frameY="-15" frameWidth="140" frameHeight="199"/>
+	<SubTexture name="EIGHT DIGITAL instance 10007" x="256" y="0" width="110" height="169" frameX="-15" frameY="-15" frameWidth="140" frameHeight="199"/>
+	<SubTexture name="EIGHT DIGITAL instance 10008" x="256" y="0" width="110" height="169" frameX="-15" frameY="-15" frameWidth="140" frameHeight="199"/>
+	<SubTexture name="EIGHT DIGITAL instance 10009" x="256" y="0" width="110" height="169" frameX="-15" frameY="-15" frameWidth="140" frameHeight="199"/>
+	<SubTexture name="EIGHT DIGITAL instance 10010" x="256" y="0" width="110" height="169" frameX="-15" frameY="-15" frameWidth="140" frameHeight="199"/>
+	<SubTexture name="EIGHT DIGITAL instance 10011" x="256" y="0" width="110" height="169" frameX="-15" frameY="-15" frameWidth="140" frameHeight="199"/>
+	<SubTexture name="EIGHT DIGITAL instance 10012" x="256" y="0" width="110" height="169" frameX="-15" frameY="-15" frameWidth="140" frameHeight="199"/>
+	<SubTexture name="EIGHT DIGITAL instance 10013" x="256" y="0" width="110" height="169" frameX="-15" frameY="-15" frameWidth="140" frameHeight="199"/>
+	<SubTexture name="EIGHT DIGITAL instance 10014" x="256" y="0" width="110" height="169" frameX="-15" frameY="-15" frameWidth="140" frameHeight="199"/>
+	<SubTexture name="EIGHT DIGITAL instance 10015" x="256" y="0" width="110" height="169" frameX="-15" frameY="-15" frameWidth="140" frameHeight="199"/>
+	<SubTexture name="FIVE DIGITAL instance 10000" x="366" y="0" width="140" height="197"/>
+	<SubTexture name="FIVE DIGITAL instance 10001" x="366" y="0" width="140" height="197"/>
+	<SubTexture name="FIVE DIGITAL instance 10002" x="506" y="0" width="116" height="173" frameX="-12" frameY="-12" frameWidth="140" frameHeight="197"/>
+	<SubTexture name="FIVE DIGITAL instance 10003" x="506" y="0" width="116" height="173" frameX="-12" frameY="-12" frameWidth="140" frameHeight="197"/>
+	<SubTexture name="FIVE DIGITAL instance 10004" x="622" y="0" width="110" height="167" frameX="-15" frameY="-15" frameWidth="140" frameHeight="197"/>
+	<SubTexture name="FIVE DIGITAL instance 10005" x="622" y="0" width="110" height="167" frameX="-15" frameY="-15" frameWidth="140" frameHeight="197"/>
+	<SubTexture name="FIVE DIGITAL instance 10006" x="622" y="0" width="110" height="167" frameX="-15" frameY="-15" frameWidth="140" frameHeight="197"/>
+	<SubTexture name="FIVE DIGITAL instance 10007" x="622" y="0" width="110" height="167" frameX="-15" frameY="-15" frameWidth="140" frameHeight="197"/>
+	<SubTexture name="FIVE DIGITAL instance 10008" x="622" y="0" width="110" height="167" frameX="-15" frameY="-15" frameWidth="140" frameHeight="197"/>
+	<SubTexture name="FIVE DIGITAL instance 10009" x="622" y="0" width="110" height="167" frameX="-15" frameY="-15" frameWidth="140" frameHeight="197"/>
+	<SubTexture name="FIVE DIGITAL instance 10010" x="622" y="0" width="110" height="167" frameX="-15" frameY="-15" frameWidth="140" frameHeight="197"/>
+	<SubTexture name="FIVE DIGITAL instance 10011" x="622" y="0" width="110" height="167" frameX="-15" frameY="-15" frameWidth="140" frameHeight="197"/>
+	<SubTexture name="FIVE DIGITAL instance 10012" x="622" y="0" width="110" height="167" frameX="-15" frameY="-15" frameWidth="140" frameHeight="197"/>
+	<SubTexture name="FIVE DIGITAL instance 10013" x="622" y="0" width="110" height="167" frameX="-15" frameY="-15" frameWidth="140" frameHeight="197"/>
+	<SubTexture name="FIVE DIGITAL instance 10014" x="622" y="0" width="110" height="167" frameX="-15" frameY="-15" frameWidth="140" frameHeight="197"/>
+	<SubTexture name="FIVE DIGITAL instance 10015" x="622" y="0" width="110" height="167" frameX="-15" frameY="-15" frameWidth="140" frameHeight="197"/>
+	<SubTexture name="FOUR DIGITAL instance 10000" x="732" y="0" width="138" height="193"/>
+	<SubTexture name="FOUR DIGITAL instance 10001" x="732" y="0" width="138" height="193"/>
+	<SubTexture name="FOUR DIGITAL instance 10002" x="870" y="0" width="114" height="169" frameX="-12" frameY="-12" frameWidth="138" frameHeight="193"/>
+	<SubTexture name="FOUR DIGITAL instance 10003" x="870" y="0" width="114" height="169" frameX="-12" frameY="-12" frameWidth="138" frameHeight="193"/>
+	<SubTexture name="FOUR DIGITAL instance 10004" x="0" y="199" width="108" height="163" frameX="-15" frameY="-15" frameWidth="138" frameHeight="193"/>
+	<SubTexture name="FOUR DIGITAL instance 10005" x="0" y="199" width="108" height="163" frameX="-15" frameY="-15" frameWidth="138" frameHeight="193"/>
+	<SubTexture name="FOUR DIGITAL instance 10006" x="0" y="199" width="108" height="163" frameX="-15" frameY="-15" frameWidth="138" frameHeight="193"/>
+	<SubTexture name="FOUR DIGITAL instance 10007" x="0" y="199" width="108" height="163" frameX="-15" frameY="-15" frameWidth="138" frameHeight="193"/>
+	<SubTexture name="FOUR DIGITAL instance 10008" x="0" y="199" width="108" height="163" frameX="-15" frameY="-15" frameWidth="138" frameHeight="193"/>
+	<SubTexture name="FOUR DIGITAL instance 10009" x="0" y="199" width="108" height="163" frameX="-15" frameY="-15" frameWidth="138" frameHeight="193"/>
+	<SubTexture name="FOUR DIGITAL instance 10010" x="0" y="199" width="108" height="163" frameX="-15" frameY="-15" frameWidth="138" frameHeight="193"/>
+	<SubTexture name="FOUR DIGITAL instance 10011" x="0" y="199" width="108" height="163" frameX="-15" frameY="-15" frameWidth="138" frameHeight="193"/>
+	<SubTexture name="FOUR DIGITAL instance 10012" x="0" y="199" width="108" height="163" frameX="-15" frameY="-15" frameWidth="138" frameHeight="193"/>
+	<SubTexture name="FOUR DIGITAL instance 10013" x="0" y="199" width="108" height="163" frameX="-15" frameY="-15" frameWidth="138" frameHeight="193"/>
+	<SubTexture name="FOUR DIGITAL instance 10014" x="0" y="199" width="108" height="163" frameX="-15" frameY="-15" frameWidth="138" frameHeight="193"/>
+	<SubTexture name="FOUR DIGITAL instance 10015" x="0" y="199" width="108" height="163" frameX="-15" frameY="-15" frameWidth="138" frameHeight="193"/>
+	<SubTexture name="NINE DIGITAL instance 10000" x="108" y="199" width="140" height="196"/>
+	<SubTexture name="NINE DIGITAL instance 10001" x="108" y="199" width="140" height="196"/>
+	<SubTexture name="NINE DIGITAL instance 10002" x="248" y="199" width="116" height="172" frameX="-12" frameY="-12" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="NINE DIGITAL instance 10003" x="248" y="199" width="116" height="172" frameX="-12" frameY="-12" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="NINE DIGITAL instance 10004" x="364" y="199" width="110" height="166" frameX="-15" frameY="-15" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="NINE DIGITAL instance 10005" x="364" y="199" width="110" height="166" frameX="-15" frameY="-15" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="NINE DIGITAL instance 10006" x="364" y="199" width="110" height="166" frameX="-15" frameY="-15" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="NINE DIGITAL instance 10007" x="364" y="199" width="110" height="166" frameX="-15" frameY="-15" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="NINE DIGITAL instance 10008" x="364" y="199" width="110" height="166" frameX="-15" frameY="-15" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="NINE DIGITAL instance 10009" x="364" y="199" width="110" height="166" frameX="-15" frameY="-15" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="NINE DIGITAL instance 10010" x="364" y="199" width="110" height="166" frameX="-15" frameY="-15" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="NINE DIGITAL instance 10011" x="364" y="199" width="110" height="166" frameX="-15" frameY="-15" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="NINE DIGITAL instance 10012" x="364" y="199" width="110" height="166" frameX="-15" frameY="-15" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="NINE DIGITAL instance 10013" x="364" y="199" width="110" height="166" frameX="-15" frameY="-15" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="NINE DIGITAL instance 10014" x="364" y="199" width="110" height="166" frameX="-15" frameY="-15" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="NINE DIGITAL instance 10015" x="364" y="199" width="110" height="166" frameX="-15" frameY="-15" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="ONE DIGITAL instance 10000" x="474" y="199" width="79" height="194"/>
+	<SubTexture name="ONE DIGITAL instance 10001" x="474" y="199" width="79" height="194"/>
+	<SubTexture name="ONE DIGITAL instance 10002" x="553" y="199" width="55" height="170" frameX="-12" frameY="-12" frameWidth="79" frameHeight="194"/>
+	<SubTexture name="ONE DIGITAL instance 10003" x="553" y="199" width="55" height="170" frameX="-12" frameY="-12" frameWidth="79" frameHeight="194"/>
+	<SubTexture name="ONE DIGITAL instance 10004" x="608" y="199" width="49" height="164" frameX="-15" frameY="-15" frameWidth="79" frameHeight="194"/>
+	<SubTexture name="ONE DIGITAL instance 10005" x="608" y="199" width="49" height="164" frameX="-15" frameY="-15" frameWidth="79" frameHeight="194"/>
+	<SubTexture name="ONE DIGITAL instance 10006" x="608" y="199" width="49" height="164" frameX="-15" frameY="-15" frameWidth="79" frameHeight="194"/>
+	<SubTexture name="ONE DIGITAL instance 10007" x="608" y="199" width="49" height="164" frameX="-15" frameY="-15" frameWidth="79" frameHeight="194"/>
+	<SubTexture name="ONE DIGITAL instance 10008" x="608" y="199" width="49" height="164" frameX="-15" frameY="-15" frameWidth="79" frameHeight="194"/>
+	<SubTexture name="ONE DIGITAL instance 10009" x="608" y="199" width="49" height="164" frameX="-15" frameY="-15" frameWidth="79" frameHeight="194"/>
+	<SubTexture name="ONE DIGITAL instance 10010" x="608" y="199" width="49" height="164" frameX="-15" frameY="-15" frameWidth="79" frameHeight="194"/>
+	<SubTexture name="ONE DIGITAL instance 10011" x="608" y="199" width="49" height="164" frameX="-15" frameY="-15" frameWidth="79" frameHeight="194"/>
+	<SubTexture name="ONE DIGITAL instance 10012" x="608" y="199" width="49" height="164" frameX="-15" frameY="-15" frameWidth="79" frameHeight="194"/>
+	<SubTexture name="ONE DIGITAL instance 10013" x="608" y="199" width="49" height="164" frameX="-15" frameY="-15" frameWidth="79" frameHeight="194"/>
+	<SubTexture name="ONE DIGITAL instance 10014" x="608" y="199" width="49" height="164" frameX="-15" frameY="-15" frameWidth="79" frameHeight="194"/>
+	<SubTexture name="ONE DIGITAL instance 10015" x="608" y="199" width="49" height="164" frameX="-15" frameY="-15" frameWidth="79" frameHeight="194"/>
+	<SubTexture name="SEVEN DIGITAL instance 10000" x="657" y="199" width="140" height="196"/>
+	<SubTexture name="SEVEN DIGITAL instance 10001" x="657" y="199" width="140" height="196"/>
+	<SubTexture name="SEVEN DIGITAL instance 10002" x="797" y="199" width="116" height="172" frameX="-12" frameY="-12" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="SEVEN DIGITAL instance 10003" x="797" y="199" width="116" height="172" frameX="-12" frameY="-12" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="SEVEN DIGITAL instance 10004" x="913" y="199" width="110" height="166" frameX="-15" frameY="-15" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="SEVEN DIGITAL instance 10005" x="913" y="199" width="110" height="166" frameX="-15" frameY="-15" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="SEVEN DIGITAL instance 10006" x="913" y="199" width="110" height="166" frameX="-15" frameY="-15" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="SEVEN DIGITAL instance 10007" x="913" y="199" width="110" height="166" frameX="-15" frameY="-15" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="SEVEN DIGITAL instance 10008" x="913" y="199" width="110" height="166" frameX="-15" frameY="-15" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="SEVEN DIGITAL instance 10009" x="913" y="199" width="110" height="166" frameX="-15" frameY="-15" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="SEVEN DIGITAL instance 10010" x="913" y="199" width="110" height="166" frameX="-15" frameY="-15" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="SEVEN DIGITAL instance 10011" x="913" y="199" width="110" height="166" frameX="-15" frameY="-15" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="SEVEN DIGITAL instance 10012" x="913" y="199" width="110" height="166" frameX="-15" frameY="-15" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="SEVEN DIGITAL instance 10013" x="913" y="199" width="110" height="166" frameX="-15" frameY="-15" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="SEVEN DIGITAL instance 10014" x="913" y="199" width="110" height="166" frameX="-15" frameY="-15" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="SEVEN DIGITAL instance 10015" x="913" y="199" width="110" height="166" frameX="-15" frameY="-15" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="SIX DIGITAL instance 10000" x="0" y="395" width="139" height="198"/>
+	<SubTexture name="SIX DIGITAL instance 10001" x="0" y="395" width="139" height="198"/>
+	<SubTexture name="SIX DIGITAL instance 10002" x="139" y="395" width="115" height="174" frameX="-12" frameY="-12" frameWidth="139" frameHeight="198"/>
+	<SubTexture name="SIX DIGITAL instance 10003" x="139" y="395" width="115" height="174" frameX="-12" frameY="-12" frameWidth="139" frameHeight="198"/>
+	<SubTexture name="SIX DIGITAL instance 10004" x="254" y="395" width="109" height="168" frameX="-15" frameY="-15" frameWidth="139" frameHeight="198"/>
+	<SubTexture name="SIX DIGITAL instance 10005" x="254" y="395" width="109" height="168" frameX="-15" frameY="-15" frameWidth="139" frameHeight="198"/>
+	<SubTexture name="SIX DIGITAL instance 10006" x="254" y="395" width="109" height="168" frameX="-15" frameY="-15" frameWidth="139" frameHeight="198"/>
+	<SubTexture name="SIX DIGITAL instance 10007" x="254" y="395" width="109" height="168" frameX="-15" frameY="-15" frameWidth="139" frameHeight="198"/>
+	<SubTexture name="SIX DIGITAL instance 10008" x="254" y="395" width="109" height="168" frameX="-15" frameY="-15" frameWidth="139" frameHeight="198"/>
+	<SubTexture name="SIX DIGITAL instance 10009" x="254" y="395" width="109" height="168" frameX="-15" frameY="-15" frameWidth="139" frameHeight="198"/>
+	<SubTexture name="SIX DIGITAL instance 10010" x="254" y="395" width="109" height="168" frameX="-15" frameY="-15" frameWidth="139" frameHeight="198"/>
+	<SubTexture name="SIX DIGITAL instance 10011" x="254" y="395" width="109" height="168" frameX="-15" frameY="-15" frameWidth="139" frameHeight="198"/>
+	<SubTexture name="SIX DIGITAL instance 10012" x="254" y="395" width="109" height="168" frameX="-15" frameY="-15" frameWidth="139" frameHeight="198"/>
+	<SubTexture name="SIX DIGITAL instance 10013" x="254" y="395" width="109" height="168" frameX="-15" frameY="-15" frameWidth="139" frameHeight="198"/>
+	<SubTexture name="SIX DIGITAL instance 10014" x="254" y="395" width="109" height="168" frameX="-15" frameY="-15" frameWidth="139" frameHeight="198"/>
+	<SubTexture name="SIX DIGITAL instance 10015" x="254" y="395" width="109" height="168" frameX="-15" frameY="-15" frameWidth="139" frameHeight="198"/>
+	<SubTexture name="THREE DIGITAL instance 10000" x="363" y="395" width="141" height="197"/>
+	<SubTexture name="THREE DIGITAL instance 10001" x="363" y="395" width="141" height="197"/>
+	<SubTexture name="THREE DIGITAL instance 10002" x="504" y="395" width="117" height="173" frameX="-12" frameY="-12" frameWidth="141" frameHeight="197"/>
+	<SubTexture name="THREE DIGITAL instance 10003" x="504" y="395" width="117" height="173" frameX="-12" frameY="-12" frameWidth="141" frameHeight="197"/>
+	<SubTexture name="THREE DIGITAL instance 10004" x="621" y="395" width="111" height="167" frameX="-15" frameY="-15" frameWidth="141" frameHeight="197"/>
+	<SubTexture name="THREE DIGITAL instance 10005" x="621" y="395" width="111" height="167" frameX="-15" frameY="-15" frameWidth="141" frameHeight="197"/>
+	<SubTexture name="THREE DIGITAL instance 10006" x="621" y="395" width="111" height="167" frameX="-15" frameY="-15" frameWidth="141" frameHeight="197"/>
+	<SubTexture name="THREE DIGITAL instance 10007" x="621" y="395" width="111" height="167" frameX="-15" frameY="-15" frameWidth="141" frameHeight="197"/>
+	<SubTexture name="THREE DIGITAL instance 10008" x="621" y="395" width="111" height="167" frameX="-15" frameY="-15" frameWidth="141" frameHeight="197"/>
+	<SubTexture name="THREE DIGITAL instance 10009" x="621" y="395" width="111" height="167" frameX="-15" frameY="-15" frameWidth="141" frameHeight="197"/>
+	<SubTexture name="THREE DIGITAL instance 10010" x="621" y="395" width="111" height="167" frameX="-15" frameY="-15" frameWidth="141" frameHeight="197"/>
+	<SubTexture name="THREE DIGITAL instance 10011" x="621" y="395" width="111" height="167" frameX="-15" frameY="-15" frameWidth="141" frameHeight="197"/>
+	<SubTexture name="THREE DIGITAL instance 10012" x="621" y="395" width="111" height="167" frameX="-15" frameY="-15" frameWidth="141" frameHeight="197"/>
+	<SubTexture name="THREE DIGITAL instance 10013" x="621" y="395" width="111" height="167" frameX="-15" frameY="-15" frameWidth="141" frameHeight="197"/>
+	<SubTexture name="THREE DIGITAL instance 10014" x="621" y="395" width="111" height="167" frameX="-15" frameY="-15" frameWidth="141" frameHeight="197"/>
+	<SubTexture name="THREE DIGITAL instance 10015" x="621" y="395" width="111" height="167" frameX="-15" frameY="-15" frameWidth="141" frameHeight="197"/>
+	<SubTexture name="TWO DIGITAL instance 10000" x="732" y="395" width="141" height="198"/>
+	<SubTexture name="TWO DIGITAL instance 10001" x="732" y="395" width="141" height="198"/>
+	<SubTexture name="TWO DIGITAL instance 10002" x="873" y="395" width="117" height="174" frameX="-12" frameY="-12" frameWidth="141" frameHeight="198"/>
+	<SubTexture name="TWO DIGITAL instance 10003" x="873" y="395" width="117" height="174" frameX="-12" frameY="-12" frameWidth="141" frameHeight="198"/>
+	<SubTexture name="TWO DIGITAL instance 10004" x="0" y="593" width="111" height="168" frameX="-15" frameY="-15" frameWidth="141" frameHeight="198"/>
+	<SubTexture name="TWO DIGITAL instance 10005" x="0" y="593" width="111" height="168" frameX="-15" frameY="-15" frameWidth="141" frameHeight="198"/>
+	<SubTexture name="TWO DIGITAL instance 10006" x="0" y="593" width="111" height="168" frameX="-15" frameY="-15" frameWidth="141" frameHeight="198"/>
+	<SubTexture name="TWO DIGITAL instance 10007" x="0" y="593" width="111" height="168" frameX="-15" frameY="-15" frameWidth="141" frameHeight="198"/>
+	<SubTexture name="TWO DIGITAL instance 10008" x="0" y="593" width="111" height="168" frameX="-15" frameY="-15" frameWidth="141" frameHeight="198"/>
+	<SubTexture name="TWO DIGITAL instance 10009" x="0" y="593" width="111" height="168" frameX="-15" frameY="-15" frameWidth="141" frameHeight="198"/>
+	<SubTexture name="TWO DIGITAL instance 10010" x="0" y="593" width="111" height="168" frameX="-15" frameY="-15" frameWidth="141" frameHeight="198"/>
+	<SubTexture name="TWO DIGITAL instance 10011" x="0" y="593" width="111" height="168" frameX="-15" frameY="-15" frameWidth="141" frameHeight="198"/>
+	<SubTexture name="TWO DIGITAL instance 10012" x="0" y="593" width="111" height="168" frameX="-15" frameY="-15" frameWidth="141" frameHeight="198"/>
+	<SubTexture name="TWO DIGITAL instance 10013" x="0" y="593" width="111" height="168" frameX="-15" frameY="-15" frameWidth="141" frameHeight="198"/>
+	<SubTexture name="TWO DIGITAL instance 10014" x="0" y="593" width="111" height="168" frameX="-15" frameY="-15" frameWidth="141" frameHeight="198"/>
+	<SubTexture name="TWO DIGITAL instance 10015" x="0" y="593" width="111" height="168" frameX="-15" frameY="-15" frameWidth="141" frameHeight="198"/>
+	<SubTexture name="ZERO DIGITAL instance 10000" x="111" y="593" width="140" height="196"/>
+	<SubTexture name="ZERO DIGITAL instance 10001" x="111" y="593" width="140" height="196"/>
+	<SubTexture name="ZERO DIGITAL instance 10002" x="251" y="593" width="116" height="172" frameX="-12" frameY="-12" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="ZERO DIGITAL instance 10003" x="251" y="593" width="116" height="172" frameX="-12" frameY="-12" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="ZERO DIGITAL instance 10004" x="367" y="593" width="110" height="166" frameX="-15" frameY="-15" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="ZERO DIGITAL instance 10005" x="367" y="593" width="110" height="166" frameX="-15" frameY="-15" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="ZERO DIGITAL instance 10006" x="367" y="593" width="110" height="166" frameX="-15" frameY="-15" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="ZERO DIGITAL instance 10007" x="367" y="593" width="110" height="166" frameX="-15" frameY="-15" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="ZERO DIGITAL instance 10008" x="367" y="593" width="110" height="166" frameX="-15" frameY="-15" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="ZERO DIGITAL instance 10009" x="367" y="593" width="110" height="166" frameX="-15" frameY="-15" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="ZERO DIGITAL instance 10010" x="367" y="593" width="110" height="166" frameX="-15" frameY="-15" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="ZERO DIGITAL instance 10011" x="367" y="593" width="110" height="166" frameX="-15" frameY="-15" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="ZERO DIGITAL instance 10012" x="367" y="593" width="110" height="166" frameX="-15" frameY="-15" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="ZERO DIGITAL instance 10013" x="367" y="593" width="110" height="166" frameX="-15" frameY="-15" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="ZERO DIGITAL instance 10014" x="367" y="593" width="110" height="166" frameX="-15" frameY="-15" frameWidth="140" frameHeight="196"/>
+	<SubTexture name="ZERO DIGITAL instance 10015" x="367" y="593" width="110" height="166" frameX="-15" frameY="-15" frameWidth="140" frameHeight="196"/>
+</TextureAtlas>

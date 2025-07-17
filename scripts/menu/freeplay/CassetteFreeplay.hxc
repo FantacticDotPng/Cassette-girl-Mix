@@ -87,12 +87,12 @@ class CassetteFreeplay extends Module
 
         if (FlxG.state.subState.capsuleOptionsMenu != null)
         {
-            if (FlxG.state.subState.capsuleOptionsMenu.currentInstrumental.text == "cassettegirlmod")
+            if (FlxG.state.subState.capsuleOptionsMenu.currentInstrumental.text == "Cassettegirlmod")
             {
                 FlxG.state.subState.capsuleOptionsMenu.currentInstrumental.text = "Cassette";
             }
             
-            if (StringTools.startsWith(FlxG.state.subState.capsuleOptionsMenu.currentInstrumental.text, "cassettegirlmod-") && StringTools.endsWith(FlxG.state.subState.capsuleOptionsMenu.currentInstrumental.text, "cut"))
+            if (StringTools.startsWith(FlxG.state.subState.capsuleOptionsMenu.currentInstrumental.text, "Cassettegirlmod-") && StringTools.endsWith(FlxG.state.subState.capsuleOptionsMenu.currentInstrumental.text, "cut"))
             {
                 FlxG.state.subState.capsuleOptionsMenu.currentInstrumental.text = "Cassette";
             }
