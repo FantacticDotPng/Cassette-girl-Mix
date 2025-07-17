@@ -1,0 +1,11 @@
+[
+    {
+        "op": "replace", "path": "/props/5/assetPath", "value": "lightsEXT"
+    },
+	{
+		"op": "replace", "path": "/props/5/position/0", "value": -867
+	},
+	{
+        "op": "replace", "path": "/props/3/assetPath", "value": "bgEXT"
+    }
+]
